@@ -1,0 +1,15 @@
+{
+  "name": "Deerfield Public Library+",
+  "slug": "deerfield",
+  "easId": "2bad1138-3aa8-4f0b-9dc1-b71ee38878f8",
+  "reverseDns": "org.aspendiscovery.deerfield",
+  "discoveryUrl": "https://catalog.deerfieldlibrary.org/",
+  "greenhouseUrl": "https://catalog.deerfieldlibrary.org/",
+  "libraryId": "2",
+  "themeId": "1",
+  "background": "#ffffff",
+  "sentryProject": "aspen-lida-deerfield",
+  "sentryDsn": "https://a4f59e493e4121295a76d26e6d697729@o994439.ingest.us.sentry.io/4508688809000960",
+  "ascAppId": "6741077170",
+  "logLevel": "0"
+}
